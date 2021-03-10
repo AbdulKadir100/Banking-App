@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banking App</string>
+    <string name="banking_app">Banking App</string>
+    <string name="all_users">All users</string>
+    <string name="update">History</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
